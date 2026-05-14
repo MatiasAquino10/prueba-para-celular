@@ -278,6 +278,13 @@ button:hover {
 
 }
 
+iframe {
+
+    width: 560px;
+    height: 315px;
+    
+}
+
 /*
     git add .
     git commit -m "style: estilizo tabla y formulario"
