@@ -339,6 +339,14 @@ footer img {
 
 @media (max-width: 480px) {
 
+    body {
+
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+
+    }
+
     #mobs {
 
         grid-template-columns: 1fr;
@@ -358,8 +366,8 @@ footer img {
     }
 
     iframe {
-        width: 60%;
-        height: 200px;
+        width: 100%;
+        height: 250px;
     }
 
     table {
