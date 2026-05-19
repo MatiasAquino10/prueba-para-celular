@@ -358,7 +358,8 @@ footer img {
 
     section {
 
-        padding: 15px
+        padding: 15px;
+        overflow: hidden;
 
     }
 
